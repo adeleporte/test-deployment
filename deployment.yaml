@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: mongo-client
-  name: mongo-client
+  name: nsx-plugin
 spec:
   replicas: 1
   selector:
